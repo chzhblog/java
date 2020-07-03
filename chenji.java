@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class chengji {
+public class chenji {
     public static void main(String[]args){
         System.out.print("请输入学生成绩:");
         Scanner input = new Scanner(System.in);

@@ -16,6 +16,5 @@ public class Yars{
         }
         in.close();
     }
-    
 
 }
